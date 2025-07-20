@@ -12,28 +12,25 @@
 ## 🧱 Featured Mods
 
 ### 🔥 [CobbleFurnies](https://modrinth.com/mod/cobblefurnies)
-> *A furniture add-on for Cobblemon with working stoves, decorative blocks, and cooking integration.*
+> *A furniture add-on for Cobblemon with decorative furniture.*
 
-- Functional stoves compatible with **Cobblemon cooking**
+- Functional stoves compatible with **Cobblemon cooking** *(For Cobblemon 1.7.0+)*
 - Built using **Architectury** for Fabric & NeoForge
-- JEI and REI integration
-- Custom models and particle effects
+- Custom made models and textures
 
 ---
 
 ### 🪑 [Furnies](https://modrinth.com/mod/furnies)
-> *A standalone furniture mod with high-quality models, color variants, and full rotation support.*
+> *A standalone furniture mod with high-quality models, color variants.*
 
 - 100% decorative and performant
 - Multiple color and wood variants
-- Compatible with structure blocks & rotation
 
 ---
 
 ### 🧐 [Inspectability](https://modrinth.com/mod/inspectability)
-> *Right-click any block or entity to inspect it. Great for modpack devs, builders and tech players.*
+> *Right-click any item to inspect it in a 3d environment. Great for modpack devs, builders and tech players.*
 
-- Displays NBT and block/entity data in a friendly HUD
 - Works in modpacks or development environments
 - Lightweight and client-side only
 
@@ -43,9 +40,8 @@
 
 - ⚙️ **Architectury** for shared logic across platforms
 - 🧵 Also develop **Fabric-only** and **NeoForge-only** mods when needed
-- 💡 Familiar with **BlockEntities**, **Multiblocks**, **GeckoLib animations**
+- 💡 Familiar with **Blockbench**, **Blender**, **Minecraft in general**
 - 🔍 Strong focus on optimization, compatibility and polish
-- 🧰 Supports **JEI**, **REI**, **Modrinth**, and modern dev toolchains
 
 ---
 
